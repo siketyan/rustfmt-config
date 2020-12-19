@@ -40,7 +40,7 @@ In production, disabling these features by setting `unstable_features = false` i
    $ cp ./rustfmt.toml ~/path/to/your/project/
    ```
    Creating a symlink is not recommended.
-   Changing contents of the file may occur when checkouting another branch.
+   Changing contents of the file may occur when checking out another branch.
 
 ## 📄 Licence
 This configuration is licenced under CC0.
